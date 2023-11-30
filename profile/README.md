@@ -1,4 +1,4 @@
-## Welcome to Matrix 🚀
+## Welcome to Matrix 🔰
 
 ### About Us
 Matrix is a vibrant community dedicated to navigating the ever-evolving world of technology. We focus on sharing study hacks, resources, and keeping you informed about the latest tech stacks. Join us to connect, learn, and grow together!
